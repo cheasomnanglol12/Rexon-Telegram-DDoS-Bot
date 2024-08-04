@@ -14,7 +14,7 @@ const { apikey, bot_token, owner, ownerLink, version, prefix } = JSON.parse(fs.r
 let entertainment = {}
 
 if (bot_token == '') {
-	return console.log('=== BOT TOKEN CANNOT BE EMPTY ===')
+	return console.log('7372125963:AAGoMJjVPf8q8HuXMuMb1aNWhphWhYxpMAU')
 }
 
 const bot = new Telegraf(bot_token)
